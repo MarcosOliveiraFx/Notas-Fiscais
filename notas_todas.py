@@ -1,6 +1,3 @@
-# Notas-Fiscais
-Notas fiscais extraídas do outlook
-
 from imap_tools import MailBox, AND
 from dataclasses import dataclass
 from h11 import Data
